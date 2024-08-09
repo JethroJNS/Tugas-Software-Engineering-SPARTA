@@ -15,7 +15,7 @@ Untuk menjalankan website ini di komputer lokal Anda, ikuti langkah-langkah beri
 6. Ketikkan "start Portofolio_Diri.html" lalu enter.
 
 Bonus yang dikerjakan:
-- Deployment - Selesai: Deployment telah selesai dilakukan dengan menggunakan platform Vercel
+- Deployment - Selesai: Deployment telah selesai dilakukan dengan menggunakan GitHub Pages
 - Tampilan yang responsif - Selesai: Desain website telah dioptimalkan untuk tampilan yang baik di berbagai perangkat, dari desktop, tablet, hingga smartphone.
 - Penggunaan basis data atau CMS - Tidak mengerjakan
 - Kreativitas - Parsial: Desain website telah dibuat semenarik mungkin, tetapi masih kurang beberapa fitur-fitur tambahan yang bisa membuat web semakin meanrik.
