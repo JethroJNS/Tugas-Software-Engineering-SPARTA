@@ -5,11 +5,11 @@ Website ini dirancang agar responsif dan dapat diakses dengan baik pada berbagai
 
 Proyek ini dibangun menggunakan teknologi berikut:
 
-• HTML: Untuk struktur dasar halaman web.
+- HTML: Untuk struktur dasar halaman web.
+  
+- CSS: Untuk styling dan membuat website menjadi responsif.
 
-• CSS: Untuk styling dan membuat website menjadi responsif.
-
-• Media Queries: Untuk menyesuaikan tampilan pada berbagai ukuran layar (desktop, tablet, smartphone).
+- Media Queries: Untuk menyesuaikan tampilan pada berbagai ukuran layar (desktop, tablet, smartphone).
 
 Untuk menjalankan website ini di komputer lokal Anda, ikuti langkah-langkah berikut:
 
@@ -23,24 +23,22 @@ Untuk menjalankan website ini di komputer lokal Anda, ikuti langkah-langkah beri
 
 Bonus yang dikerjakan:
 
-• Deployment - Selesai: Deployment telah selesai dilakukan dengan menggunakan platform Vercel
+- Deployment - Selesai: Deployment telah selesai dilakukan dengan menggunakan platform Vercel
 
-• Tampilan yang responsif - Selesai: Desain website telah dioptimalkan untuk tampilan yang baik di berbagai perangkat, dari desktop, tablet, hingga smartphone.
+- Tampilan yang responsif - Selesai: Desain website telah dioptimalkan untuk tampilan yang baik di berbagai perangkat, dari desktop, tablet, hingga smartphone.
 
-• Penggunaan basis data atau CMS - Tidak mengerjakan
+- Penggunaan basis data atau CMS - Tidak mengerjakan
 
-• Kreativitas - Parsial: Desain website telah dibuat semenarik mungkin, tetapi masih kurang beberapa fitur-fitur tambahan yang bisa menambah kecantikan desain web.
+- Kreativitas - Parsial: Desain website telah dibuat semenarik mungkin, tetapi masih kurang beberapa fitur-fitur tambahan yang bisa membuat web semakin meanrik.
 
 Kesulitan yang dihadapi:
 
-• Mempelajari tools-tools baru: Saya merupakan orang yang masih tergolong pemula dalam pembuatan website sehingga mencari sumber-sumber belajar dan mendalaminya merupakan salah satu tantangan bagi saya.
+- Mempelajari tools-tools baru: Saya merupakan orang yang masih tergolong pemula dalam pembuatan website sehingga mencari sumber-sumber belajar dan mendalaminya merupakan salah satu tantangan bagi saya.
 
-• Kreativitas: Membuat tampilan website yang semenarik mungkin juga menjadi salah satu tantangan bagi saya.
+- Styling: Membuat tampilan website yang semenarik mungkin juga menjadi salah satu tantangan bagi saya.
 
 Identitas pembuat:
 
-• Nama: Jethro Jens Norbert Simatupang
-
-• E-mail: jethrojsimatupang@gmail.com
-
-• GitHub: JethroJNS
+- Nama: Jethro Jens Norbert Simatupang
+- E-mail: jethrojsimatupang@gmail.com
+- GitHub: JethroJNS
