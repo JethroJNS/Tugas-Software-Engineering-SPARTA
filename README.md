@@ -9,7 +9,7 @@ Proyek ini dibangun menggunakan teknologi berikut:
 - Media Queries: Untuk menyesuaikan tampilan pada berbagai ukuran layar (desktop, tablet, smartphone).
 
 Untuk menjalankan website ini di komputer lokal Anda, ikuti langkah-langkah berikut:
-1. Clone repositori ini ke komputer lokal Anda dan buka folder respositori yang telah diclone.
+1. Clone repositori ini ke komputer lokal Anda dan buka folder repositori yang telah diclone.
 2. Copy path untuk folder "src" dan buka terminal.
 3. Ketikkan "cd <path yang telah dicopy" lalu enter.   
 6. Ketikkan "start Portofolio_Diri.html" lalu enter.
