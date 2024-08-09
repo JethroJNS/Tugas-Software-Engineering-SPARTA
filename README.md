@@ -38,6 +38,9 @@ Kesulitan yang dihadapi:
 • Kreativitas: Membuat tampilan website yang semenarik mungkin juga menjadi salah satu tantangan bagi saya.
 
 Identitas pembuat:
+
 • Nama: Jethro Jens Norbert Simatupang
+
 • E-mail: jethrojsimatupang@gmail.com
+
 • GitHub: JethroJNS
