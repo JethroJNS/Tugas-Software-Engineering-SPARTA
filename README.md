@@ -16,7 +16,6 @@ Untuk menjalankan website ini di komputer lokal Anda, ikuti langkah-langkah beri
 
 Bonus yang dikerjakan:
 - Deployment - Selesai: Deployment telah selesai dilakukan dengan menggunakan GitHub Pages dengan link berikut:
-
   https://jethrojns.github.io/Tugas-Software-Engineering-SPARTA/src/Portofolio_Diri.html
 - Tampilan yang responsif - Selesai: Desain website telah dioptimalkan untuk tampilan yang baik di berbagai perangkat, dari desktop, tablet, hingga smartphone.
 - Penggunaan basis data atau CMS - Tidak mengerjakan
