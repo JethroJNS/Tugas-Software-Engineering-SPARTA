@@ -27,5 +27,5 @@ Kesulitan yang dihadapi:
   
 Identitas pembuat:
 - Nama: Jethro Jens Norbert Simatupang
-- E-mail: jethrojsimatupang@gmail.com
+- E-mail: jethrosimatupang@gmail.com
 - GitHub: JethroJNS
